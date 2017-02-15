@@ -12,7 +12,7 @@ namespace TCPChatServer
     {
         static void Main(string[] args)
         {
-
+            //Test Continous Integration
             #region my 2 way server code
             //set up server
             TcpListener serverSocket = new TcpListener(6789);
